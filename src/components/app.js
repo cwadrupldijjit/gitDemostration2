@@ -11,13 +11,20 @@ import Josh from './josh';
   render() {
     return (
       <div>
-        <h1>React Simple Starter</h1>
-          <Alex />
-          <Saundra />
-          <Landon />
-          <Paola/>
-          <Jared />
-          <Josh/>
+        <h1>I ❤️ trailing commas</h1>
+        <Josh/>
+        <Josh/>
+        <Josh/>
+        <Josh/>
+        <Josh/>
+        <Josh/>
+        <Josh/>
+        <Josh/>
+        <Josh/>
+        <Josh/>
+        <Josh/>
+        <Josh/>
+        <Josh/>
       </div>
     );
   }
