@@ -23,6 +23,5 @@ import Josh from './josh';
   }
 }
 
-test test test
 
 export default App
