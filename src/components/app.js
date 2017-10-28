@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import Alex from './alex'
-import Saundra from './saundra'
+import Alex from './alex';
+import Saundra from './saundra';
 
-import Landon from './landon'
-import Paola from './Paola'
-import Jared from './jared'
-import Josh from './josh'
+import Landon from './landon';
+import Paola from './Paola';
+import Jared from './jared';
+import Josh from './josh';
 
  class App extends Component {
   render() {
@@ -22,5 +22,7 @@ import Josh from './josh'
     );
   }
 }
+
+test test test
 
 export default App
